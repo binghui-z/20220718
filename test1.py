@@ -5,5 +5,3 @@ div = 10/3
 print("sum is:%f"%(sum))
 print("sub is:%f"%(sub))
 print("mul is:%f"%(mul))
-print("div is:%f"%(div))
-
