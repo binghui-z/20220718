@@ -1,4 +1,8 @@
-print("20220718_learn_merge")
-print("202207181314_learn_merge")
-print("202207181315_learn_merge")
-print("202207181316_learn_merge")
+sum = 10+12
+sub = 12-10
+mul = 10*3
+div = 10/3
+print("sum is:%f"%(sum))
+print("sub is:%f"%(sub))
+print("mul is:%f"%(mul))
+print("div is:%f"%(div))
